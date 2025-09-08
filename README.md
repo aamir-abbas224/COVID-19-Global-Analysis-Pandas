@@ -6,7 +6,6 @@ This project uses Python and Pandas to analyse a global COVID-19 dataset. The da
 - Read and clean the dataset
 - Explore statistics by country and continent
 - Simple filtering and column operations
-- Visualizations for trends and comparisons
 
 ### Notes
 - The dataset is already clean; no concatenation or complex grouping was necessary.
